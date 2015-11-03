@@ -4,7 +4,7 @@
         <description><![CDATA[fmr]]></description>
         <link>https://thegrid.ai/fmr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 06:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 06:39:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fmr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABCD]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/fmr/abcd/index.html</link>
             <guid isPermaLink="false">574e4631-342b-4c0a-af0c-ce0fa69aa795</guid>
             <pubDate>Tue, 03 Nov 2015 06:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GUGUU]]></title>
+            <description><![CDATA[<article><h1>GUGUU</h1><p>GHJDDDI</p></article>]]></description>
+            <link>https://thegrid.ai/fmr/guguu/index.html</link>
+            <guid isPermaLink="false">11aec0fb-eacc-4205-921b-d2869155ff9f</guid>
+            <pubDate>Tue, 03 Nov 2015 06:39:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
