@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Brewery
-    url: fmr.beer
-    type: external
 favicon: null
 title: Brasserie FMR
 purpose: []
