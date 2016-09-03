@@ -1,19 +1,4 @@
-name: fmr
-favicon: null
-layout_spectrum: 0.43768196483142674
 typography_spectrum: 0.6795200444757938
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#300700'
@@ -25,4 +10,23 @@ color:
   lightness: 0.9017098345793784
   saturation: 0.08867906825616956
   rhythmicContrast: 0.381528944009915
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.43768196483142674
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: fmr
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Brewery
+    url: fmr.beer
+    type: external
+favicon: null
 purpose: []
