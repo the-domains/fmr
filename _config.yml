@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Nos Bières
+    id: 11aec0fb-eacc-4205-921b-d2869155ff9f
+    type: content
 favicon: null
 title: Brasserie FMR
 purpose: []
