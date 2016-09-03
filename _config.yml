@@ -19,15 +19,18 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: ABDC
+author:
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb604559-7b50-4099-a3c9-f94d71496d6e.png
+name: fmr
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: Nos Bières
-    id: 11aec0fb-eacc-4205-921b-d2869155ff9f
-    type: content
+  - name: Brewery
+    url: fmr.beer
+    type: external
 favicon: null
-title: Brasserie FMR
 purpose: []
